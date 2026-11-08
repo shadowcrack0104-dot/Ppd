@@ -1,0 +1,9 @@
+python-telegram-bot==21.6
+flask
+pytz
+pycryptodome
+argon2-cffi
+msgpack
+qrcode[pil]
+python-dotenv
+google-generativeai>=0.7.0
